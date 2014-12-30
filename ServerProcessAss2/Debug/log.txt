@@ -1,0 +1,1441 @@
+Server: Starting on host ARMINE-PC
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 44
+Server: number of bytes sent: 3504
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 37
+Server: number of bytes sent: 2944
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 51
+Server: number of bytes sent: 4032
+Server: total number of packets received: 41
+Server: total number of bytes received: 1722
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 42
+Server: number of bytes sent: 3344
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 45
+Server: number of bytes sent: 3584
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 52
+Server: number of bytes sent: 4144
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 59
+Server: number of bytes sent: 4704
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 64
+Server: number of bytes sent: 5104
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 69
+Server: number of bytes sent: 5488
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 63
+Server: number of bytes sent: 4976
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 95
+Server: number of bytes sent: 7584
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 89
+Server: number of bytes sent: 7104
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 104
+Server: number of bytes sent: 8304
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 103
+Server: number of bytes sent: 8176
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 139
+Server: number of bytes sent: 11024
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 111
+Server: number of bytes sent: 8848
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 164
+Server: number of bytes sent: 13056
+Server: total number of packets received: 37
+Server: total number of bytes received: 1554
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: sent data packet 0
+Server: received ACK for packet 0
+Server: sent data packet 1
+Server: received ACK for packet 1
+Server: upload of file 2.txt is completed 
+
+Server: number of DATA packets sent: 36
+Server: number of DATA bytes sent: 2000
+Server: number of packets sent: 147
+Server: number of bytes sent: 11744
+Server: total number of packets received: 36
+Server: total number of bytes received: 1512
